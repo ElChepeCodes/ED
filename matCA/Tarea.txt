@@ -1,0 +1,8 @@
+Estudiar para el jueves, del proyecto ADTs06,
+el paquete LinkedStructures, en particular las clases:
+LinearNode.java
+LinkedStruct.java
+LinkedStructIter.java
+
+
+

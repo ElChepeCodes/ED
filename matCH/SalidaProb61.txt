@@ -1,0 +1,46 @@
+run:
+1) Contenido de lista dolistInt1:
+  {LkdList || 20 || 30 || 50}
+
+2) Contenido de lista dolistInt2:
+  {LkdList || -45 || -35 || -25}
+
+3) Final de lista dolistInt1:
+  {LkdList || -45 || -35 || -25 || 20 || 30 || 50}
+
+4) Contenido de lista dolistInt1:
+  {LkdList || 20 || 30 || 50}
+
+5) Contenido de lista dolistInt2:
+  {LkdList || 125 || 135 || 145}
+
+6) Final de lista dolistInt1:
+  {LkdList || 20 || 30 || 50 || 125 || 135 || 145}
+
+7) Contenido de lista dolistInt1:
+  {LkdList || 20 || 30 || 50}
+
+8) Contenido de lista dolistInt2:
+  {LkdList || 25 || 35 || 45}
+
+9) Final de lista dolistInt1:
+  {LkdList || 20 || 25 || 30 || 35 || 45 || 50}
+
+10) Contenido de lista dolistInt1:
+  {LkdList || 20 || 20 || 30 || 32 || 45 || 50}
+
+11) Contenido de lista dolistInt2:
+  {LkdList || 15 || 25 || 25 || 35 || 45 || 80}
+
+12) Final de lista dolistInt1:
+  {LkdList || 15 || 20 || 20 || 25 || 25 || 30 || 32 || 35 || 45 || 45 || 50 || 80}
+
+13) Contenido de lista dolistInt1:
+  {LkdList || lista VACIA}
+
+14) Contenido de lista dolistInt2:
+  {LkdList || lista VACIA}
+
+DblLnkdListsExceptions.EmptyCollectionException: EmptyCoEx: the Listas con null o vacias. is EMPTY.
+HASTA LUEGO 61.
+BUILD SUCCESSFUL (total time: 0 seconds)

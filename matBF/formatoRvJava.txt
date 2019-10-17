@@ -1,0 +1,52 @@
+public class formato
+{
+    public static void main(String[] args)
+    {
+        // programa
+        ... method(...)
+    }
+
+// +++++++++++++++++++++++++++++++++++++++++++++++
+    
+    public static void method(...)
+    {
+        System.out.println("IN --> method");
+        // FORWARDS
+        . . .
+        // TEST CONTROL
+        if( <not condiRep> ) {
+            // Caso o casos base
+            System.out.println("-- CASO BASE --");
+            . . .
+        } else {
+            // Caso o casos recursivos, <condiRepe>
+            . . .
+        }
+        // BACKWARDS
+        . . .
+        System.out.println("method --> OUT and BACK");
+    }
+
+// +++++++++++++++++++++++++++++++++++++++++++++++ 
+   
+    public static TIPO method(...)
+    {
+        System.out.println("IN --> method");
+        // FORWARDS
+        . . .
+        // TEST CONTROL
+        if( <not condiRep> ) {
+            // Caso o casos base
+            System.out.println("-- CASO BASE --");
+            . . .
+        } else {
+            // Caso o casos recursivos, <condiRepe>
+            . . .
+        }
+        // BACKWARDS
+        . . .
+        System.out.println("method --> OUT and BACK");
+        return TIPO;
+    }
+    
+}

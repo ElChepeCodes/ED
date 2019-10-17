@@ -1,0 +1,15 @@
+10 Rebeca
+1 IM
+1 ingles
+
+20 Juan P.
+2 MA LE
+2 frances chino
+
+30 Armando
+1 IN
+2 ingles frances
+
+40 Oswaldo
+2 IN DF
+3 ingles frances aleman

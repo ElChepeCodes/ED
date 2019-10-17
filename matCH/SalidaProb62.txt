@@ -1,0 +1,39 @@
+run:
+1) Contenido listmatbi: 
+  {LkdList || 
+Material Bibliográfico:
+    Clave> 164 - Nombre> Dv. Redes Sociales: LIKE - Precio>250.0
+    Periodicidad> mensual, - Año de fundación> 2007
+    Tiraje> 110 || 
+Material Bibliográfico:
+    Clave> 170 - Nombre> Lb. Hilanderas de la Luna - Precio>410.0 || 
+Material Bibliográfico:
+    Clave> 278 - Nombre> Dv. Efectos del Azucar - Precio>470.0
+    Periodicidad> bimestral, - Año de fundación> 2010
+    Tiraje> 350 || 
+Material Bibliográfico:
+    Clave> 301 - Nombre> Cf. Nanotecnologia - Precio>579.0
+    Periodicidad> semestral, - Año de fundación> 2008 || 
+Material Bibliográfico:
+    Clave> 320 - Nombre> Dv. Ejercicio vital - Precio>240.0
+    Periodicidad> cuatrimestral, - Año de fundación> 2008
+    Tiraje> 240 || 
+Material Bibliográfico:
+    Clave> 325 - Nombre> Dv. Impactos del Estres - Precio>200.0
+    Periodicidad> trimestral, - Año de fundación> 2009
+    Tiraje> 230}
+
+2) Contenido listdiv: 
+  {LkdList || 
+Material Bibliográfico:
+    Clave> 320 - Nombre> Dv. Ejercicio vital - Precio>240.0
+    Periodicidad> cuatrimestral, - Año de fundación> 2008
+    Tiraje> 240 || 
+Material Bibliográfico:
+    Clave> 325 - Nombre> Dv. Impactos del Estres - Precio>200.0
+    Periodicidad> trimestral, - Año de fundación> 2009
+    Tiraje> 230}
+
+DblLnkdListsExceptions.EmptyCollectionException: EmptyCoEx: the materia esta null o vacio. is EMPTY.
+HASTA LUEGO 62.
+BUILD SUCCESSFUL (total time: 0 seconds)
